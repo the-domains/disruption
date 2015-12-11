@@ -1,0 +1,28 @@
+name: Disruption
+favicon: null
+layout_spectrum: 0.6271196217276156
+typography_spectrum: 0.37729435646906495
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.37343213614076376
+  lightness: 0.7613379596732557
+  saturation: 0.02023605816066265
+  rhythmicContrast: 0.9327164827845991
+purpose: []

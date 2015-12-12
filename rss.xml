@@ -4,8 +4,15 @@
         <description><![CDATA[The most exciting time to be alive!]]></description>
         <link>https://thegrid.ai/disruption/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 03:36:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Dec 2015 03:36:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/disruption/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://geoffdeweaver.com/wp-content/uploads/2015/08/Screen-Shot-2015-08-12-at-11.37.15-AM.png">]]></description>
+            <link>https://thegrid.ai/disruption/8eec914e-59f3-491b-92ea-6f4ea9f09e4c/index.html</link>
+            <guid isPermaLink="false">8eec914e-59f3-491b-92ea-6f4ea9f09e4c</guid>
+            <pubDate>Sat, 12 Dec 2015 03:35:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://i.ytimg.com/vi/CUxP_1UnIjA/maxresdefault.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="http://www.greenbookblog.org/wp-content/uploads/2013/03/disruption1.jpg">]]></description>
             <link>https://thegrid.ai/disruption/d4d7b45c-f0f6-468a-88db-6808fd8e4d8b/index.html</link>
             <guid isPermaLink="false">d4d7b45c-f0f6-468a-88db-6808fd8e4d8b</guid>
-            <pubDate>Sat, 12 Dec 2015 01:46:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://media.licdn.com/mpr/mpr/p/6/005/082/20b/36672f5.jpg">]]></description>
-            <link>https://thegrid.ai/disruption/3026b513-634c-4feb-a53e-626d5376fa2e/index.html</link>
-            <guid isPermaLink="false">3026b513-634c-4feb-a53e-626d5376fa2e</guid>
             <pubDate>Sat, 12 Dec 2015 01:46:43 GMT</pubDate>
         </item>
     </channel>

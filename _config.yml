@@ -1,7 +1,7 @@
 name: Disruption
 favicon: null
-layout_spectrum: 0.6271196217276156
-typography_spectrum: 0.37729435646906495
+layout_spectrum: 1
+typography_spectrum: 0.00908
 title: 'The most exciting time to be alive!'
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.37343213614076376
+  brandStrength: 1
   lightness: 0.7613379596732557
   saturation: 0.02023605816066265
   rhythmicContrast: 0.9327164827845991

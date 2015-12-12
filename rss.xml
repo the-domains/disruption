@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Disruption]]></title>
-        <description><![CDATA[Disruption]]></description>
+        <title><![CDATA[The most exciting time to be alive!]]></title>
+        <description><![CDATA[The most exciting time to be alive!]]></description>
         <link>https://thegrid.ai/disruption/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 01:47:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Dec 2015 03:35:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/disruption/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/736x/f2/98/25/f298255fc4b86485184980d7e911c0f3.jpg">]]></description>
+            <link>https://thegrid.ai/disruption/50f35872-af1f-4bfe-91e2-b092de8a0a29/index.html</link>
+            <guid isPermaLink="false">50f35872-af1f-4bfe-91e2-b092de8a0a29</guid>
+            <pubDate>Sat, 12 Dec 2015 03:35:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.greenbookblog.org/wp-content/uploads/2013/03/disruption1.jpg">]]></description>

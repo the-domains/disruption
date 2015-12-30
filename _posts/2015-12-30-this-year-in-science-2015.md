@@ -23,8 +23,8 @@ app_links:
     package: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/150277612'
 title: This Year in Science 2015
-datePublished: '2015-12-30T22:26:21.709Z'
-dateModified: '2015-12-30T22:17:38.850Z'
+datePublished: '2015-12-30T22:32:10.898Z'
+dateModified: '2015-12-30T22:26:58.684Z'
 sourcePath: _posts/2015-12-30-this-year-in-science-2015.md
 published: true
 inFeed: true

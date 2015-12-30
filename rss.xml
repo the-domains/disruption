@@ -4,8 +4,15 @@
         <description><![CDATA[The most exciting time to be alive!]]></description>
         <link>https://thegrid.ai/disruption/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 03:57:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Dec 2015 22:27:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/disruption/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This Year in Science 2015]]></title>
+            <description><![CDATA[<article><h1>This Year in Science 2015</h1><p>This year was HUGE for science! From robot intelligence to deep space exploration, we touched upon it all in this video compilation</p></article>]]></description>
+            <link>https://vimeo.com/150277612</link>
+            <guid isPermaLink="false">e441c5de-a14f-42e0-b190-efc372cb21d8</guid>
+            <pubDate>Wed, 30 Dec 2015 22:26:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://passiveincometogether.com/wp-content/uploads/2015/12/Passive-income-crash-course.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://edmundsiderius.files.wordpress.com/2012/09/singularity-epocks.jpg">]]></description>
             <link>https://thegrid.ai/disruption/e5fe1658-2b9f-4e07-96cb-868764ebacd2/index.html</link>
             <guid isPermaLink="false">e5fe1658-2b9f-4e07-96cb-868764ebacd2</guid>
-            <pubDate>Sat, 12 Dec 2015 03:55:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.kurzweilai.net/images/countdown1.png">]]></description>
-            <link>https://thegrid.ai/disruption/f141a4b7-db69-41f7-be61-99ac1c4934bd/index.html</link>
-            <guid isPermaLink="false">f141a4b7-db69-41f7-be61-99ac1c4934bd</guid>
             <pubDate>Sat, 12 Dec 2015 03:55:02 GMT</pubDate>
         </item>
     </channel>

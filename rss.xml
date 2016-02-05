@@ -4,11 +4,18 @@
         <description><![CDATA[The most exciting time to be alive!]]></description>
         <link>https://thegrid.ai/disruption/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 00:29:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Feb 2016 00:14:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/disruption/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[By fighting rooftop solar, utilities are setting themselves up for worse to come]]></title>
+            <description><![CDATA[<article><h1>By fighting rooftop solar, utilities are setting themselves up for worse to come</h1><p>Large incumbent industries threatened by new upstart technologies do not always respond to those threats wisely. Shocking, I know. While this is usually obvious in retrospect, it can often be difficult to see in real time as the struggle is unfolding. Take power utilities. (Please.) Currently, utilities are threatened by distributed rooftop solar panels.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60cab459c1b7f36b196d2a422110dc358d7d67d0.jpg"></article>]]></description>
+            <link>http://www.vox.com/2016/2/3/10905624/utilities-rooftop-solar-storage</link>
+            <guid isPermaLink="false">5e45e20d-b16c-444f-8634-26b857719c47</guid>
+            <pubDate>Fri, 05 Feb 2016 00:14:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The fourth industrial revolution]]></title>
-            <description><![CDATA[<article><h1>The fourth industrial revolution</h1><p>We stand on the brink of a technological revolution that will fundamentally alter the way we live, work, and relate to one another. In its scale, scope, and complexity, the transformation will be unlike anything humankind has experienced before.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43a058c40c61d048e8e03310b062fea64e09a75f.png"></article>]]></description>
+            <description><![CDATA[<article><h1>The fourth industrial revolution</h1><p>We stand on the brink of a technological revolution that will fundamentally alter the way we live, work, and relate to one another. In its scale, scope, and complexity, the transformation will be unlike anything humankind has experienced before.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67a627746a6cf030384ef4b77c3bf801b1d1588f.png"></article>]]></description>
             <link>https://thegrid.ai/disruption/the-fourth-industrial-revolution/index.html</link>
             <guid isPermaLink="false">f0352b85-6d46-402c-afe8-cd0eff8ff569</guid>
             <pubDate>Fri, 15 Jan 2016 00:29:11 GMT</pubDate>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[This Year in Science 2015]]></title>
-            <description><![CDATA[<article><h1>This Year in Science 2015</h1><p>This year was HUGE for science! From robot intelligence to deep space exploration, we touched upon it all in this video compilation</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d549117fdee4427c3c2a736f8703411de60bd0ca.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>This Year in Science 2015</h1><p>This year was HUGE for science! From robot intelligence to deep space exploration, we touched upon it all in this video compilation</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee5a2ab58d3b4949a46270682d2079481dae852f.jpg"></article>]]></description>
             <link>https://vimeo.com/150277612</link>
             <guid isPermaLink="false">e441c5de-a14f-42e0-b190-efc372cb21d8</guid>
             <pubDate>Wed, 30 Dec 2015 22:32:10 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="http://www.fewresources.com/sites/default/files/styles/portfolio_four_cols_271_176/public/youtube/video/images/Chris-Martenson-Crash-Course_0.jpg?itok=GdloC6ag">]]></description>
             <link>https://thegrid.ai/disruption/e6602b32-b746-4399-9203-844d248d5f8f/index.html</link>
             <guid isPermaLink="false">e6602b32-b746-4399-9203-844d248d5f8f</guid>
-            <pubDate>Sat, 12 Dec 2015 03:55:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://assets1.bigthink.com/system/idea_thumbnails/58594/primary/bt-db-cult-of-singularity.jpg?1429452208">]]></description>
-            <link>https://thegrid.ai/disruption/8dcd0647-98f3-4d2c-b4bf-0856f3348f74/index.html</link>
-            <guid isPermaLink="false">8dcd0647-98f3-4d2c-b4bf-0856f3348f74</guid>
             <pubDate>Sat, 12 Dec 2015 03:55:03 GMT</pubDate>
         </item>
     </channel>
